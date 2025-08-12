@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Conforme a Lei Orgânica do Distrito Federal e a Lei Complementar Distrital n.º 840\/2011, julgue o item.\r\n\r\nA responsabilidade administrativa do servidor é afastada no caso de absolvição penal que negue a sua autoria, com decisão transitada em julgado.",
+        "resposta": "Certo\r\n§ 1º As sanções civis, penais e administrativas podem cumular-se, sendo independentes entre si. § 2º A responsabilidade administrativa do servidor é afastada no caso de absolvição penal que negue a existência do fato ou sua autoria, com decisão transitada em julgado.",
+        "prova_id": "1",
+        "materia_id": "4",
+        "dificuldade": "medio",
+        "data_criacao": "2025-08-12 15:25:57"
+    },
+    {
+        "id": 2,
+        "pergunta": "Quanto à Lei n.º 8.069\/1990 (Estatuto da Criança e do Adolescente) e à Lei n.º 13.146\/2015 (Estatuto da Pessoa com Deficiência), julgue o item.\r\n\r\nÉ direito dos pais ou responsáveis ter ciência do processo pedagógico, bem como participar da definição das propostas educacionais.",
+        "resposta": "Certo.\r\nArt. 53. A criança e o adolescente têm direito à educação, visando ao pleno desenvolvimento de sua pessoa, preparo para o exercício da cidadania e qualificação para o trabalho, assegurando-se-lhes:\r\n\r\nParágrafo único. É direito dos pais ou responsáveis ter ciência do processo pedagógico, bem como participar da definição das propostas educacionais.",
+        "prova_id": "1",
+        "materia_id": "4",
+        "dificuldade": "medio",
+        "data_criacao": "2025-08-12 15:27:04"
+    },
+    {
+        "id": 3,
+        "pergunta": "Quanto à Lei n.º 8.069\/1990 (Estatuto da Criança e do Adolescente) e à Lei n.º 13.146\/2015 (Estatuto da Pessoa com Deficiência), julgue o item.\r\n\r\nEntre outras, são medidas aplicáveis aos pais a advertência, a perda da guarda e a suspensão ou a destituição do poder familiar.",
+        "resposta": "Certo!\r\n\r\nA questão em comento é respondida pela literalidade do ECA.\r\n\r\nDiz o ECA:\r\n\r\n“Art. 129. São medidas aplicáveis aos pais ou responsável:\r\n\r\nI - encaminhamento a serviços e programas oficiais ou comunitários de proteção, apoio e promoção da família; II - inclusão em programa oficial ou comunitário de auxílio, orientação e tratamento a alcoólatras e toxicômanos;\r\n\r\n\r\nIII - encaminhamento a tratamento psicológico ou psiquiátrico;\r\n\r\nIV - encaminhamento a cursos ou programas de orientação;\r\n\r\nV - obrigação de matricular o filho ou pupilo e acompanhar sua freqüência e aproveitamento escolar;\r\n\r\nVI - obrigação de encaminhar a criança ou adolescente a tratamento especializado;\r\n\r\nVII - advertência;\r\n\r\n \r\n\r\nVIII - perda da guarda;\r\n\r\nIX - destituição da tutela;\r\n\r\nX - suspensão ou destituição do  poder familiar .\"\r\n\r\nLogo, os incisos VII, VIII e X do art. 129 demonstram que a assertiva está correta.",
+        "prova_id": "1",
+        "materia_id": "4",
+        "dificuldade": "medio",
+        "data_criacao": "2025-08-12 15:28:25"
+    }
+]

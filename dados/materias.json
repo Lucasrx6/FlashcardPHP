@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "Português",
+        "cor": "#e74c3c",
+        "data_criacao": "2025-08-12 15:20:56"
+    },
+    {
+        "id": 2,
+        "nome": "Matemática",
+        "cor": "#3498db",
+        "data_criacao": "2025-08-12 15:20:56"
+    },
+    {
+        "id": 3,
+        "nome": "História",
+        "cor": "#f39c12",
+        "data_criacao": "2025-08-12 15:20:56"
+    },
+    {
+        "id": 4,
+        "nome": "LODF",
+        "cor": "#2ecc71",
+        "data_criacao": "2025-08-12 15:20:56"
+    },
+    {
+        "id": 5,
+        "nome": "Ciências",
+        "cor": "#9b59b6",
+        "data_criacao": "2025-08-12 15:20:56"
+    },
+    {
+        "id": 6,
+        "nome": "Inglês",
+        "cor": "#1abc9c",
+        "data_criacao": "2025-08-12 15:20:56"
+    }
+]
